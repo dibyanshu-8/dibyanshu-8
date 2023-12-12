@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dibyanshu from National Institute of Technology(NIT),silchar🔼
 - 👀 I’m interested in tech (dev,AI & DS) & politics 🩻.
 - 🌱 I’m currently learning DSA,Dev & Python to upskill my self.
-- 
+  
   
 
 <!---

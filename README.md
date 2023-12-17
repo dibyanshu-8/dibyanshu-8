@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Dibyanshu here🙌</h1>
+<h1 align="center">Hii 👋,Dibyanshu here🙌</h1>
 <h3 align="center">A passionate tech👨‍💻 enthusiast from NIT Silchar👨‍🎓.</h3>
 <img align="right" alt="coding" width="1200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

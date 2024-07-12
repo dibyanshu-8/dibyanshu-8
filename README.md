@@ -62,7 +62,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshu-8&langs_count=8&theme=tokyonight" alt=dibyanshu-8 />
+<!--<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshu-8&langs_count=8&theme=tokyonight" alt=dibyanshu-8 />-->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyanshu-8&theme=tokyonight" alt="dibyanshu-8" /></p>
 

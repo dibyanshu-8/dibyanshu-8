@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with [Project Name](Project Link) -->
 - 🌱 I’m currently learning **DSA & Machine Learning**
 - 💬 Ask me about **ML & Python**
-- 📫 Reach me at **dibyanshukar8@gmail.com**
+- 📫 Reach me at **dibyanshu.karr@gmail.com**
 <!--- 👨‍💻 All of my projects are available at **portfolio link**
 - 📝 I regularly write articles on **blog link**
 - 📄 Know about my experiences **resume link** -->

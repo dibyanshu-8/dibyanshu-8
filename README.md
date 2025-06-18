@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> 
 <h1 align="center">Hello👋I'm Dibyanshu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyanshu-8&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshu-8" /> </p>
 

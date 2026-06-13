@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋I'm Dibyanshu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyanshu-8&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshu-8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyanshu-8&theme=tokyonight" alt="dibyanshu-8" /></a> </p>
+
 
 <!--- 🔭 I’m currently working on [Project Name](Project Link)
 - 👯 I’m looking to collaborate on [Project Name](Project Link)
